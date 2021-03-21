@@ -2,7 +2,7 @@
 
 Design a parking lot that can hold up to `n` cars at any given point in time. 
 
-## Description
+## Problem Description
 
 This code represents a basic design of parking lot. It creates parking lot with given number of slots. 
 The cars entering the parking lot will always get the first empty slot in the parking lot. This slots becomes available when the customer leaves the parking lot. 
@@ -17,11 +17,11 @@ Python 3 is required to run this code.
 
 Follow these steps -
 
-1. Clone the repository. `https://github.com/PawanRamaMali/Parking-Lot-Demo` 
+1. Clone the repository. `git clone https://github.com/PawanRamaMali/Parking-Lot-Demo` 
 
 2. Run `python Run_Parking.py -f input.txt` using terminal.
 
-## Commands in the Input file
+## Description of commands in the Input file
 
 ##### 1 `create_parking_lot` - Used for creating the parking lot system.
 
