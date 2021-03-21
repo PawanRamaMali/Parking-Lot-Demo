@@ -38,7 +38,7 @@ Follow these steps -
 ##### 7 `vehicle_registration_number_for_driver_of_age` - Gives the vehicle registration numbers with the given driver's age
 
 
-## Sample 1 Input 
+### Sample 1 Input 
 
 ```
 Create_parking_lot 6
@@ -52,7 +52,7 @@ Park HR-29-TG-3098 driver_age 39
 Vehicle_registration_number_for_driver_of_age 18
 ```
 
-# Sample 1 Output
+### Sample 1 Output
 
 ```
  Created parking of 6 slots
