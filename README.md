@@ -21,6 +21,18 @@ Follow these steps -
 
 2. Run `python Run_Parking.py -f input.txt` using terminal.
 
+## Directory Structure
+
+```
+Parking-Lot_Demo
+|
+|── Run_Parking.py
+|── Parking_Argument.py
+|── Vehicle.py
+|── input.txt
+└── README.md
+    
+```
 ## Description of commands in the Input file
 
 ##### 1 `create_parking_lot <N>` - To create parking lot with N parking slots .
