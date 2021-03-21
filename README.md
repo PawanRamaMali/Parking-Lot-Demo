@@ -1,6 +1,6 @@
 # Parking-Lot-Demo
 
-Design a parking lot that can hold up to `n` cars at any given point in time. 
+Design a parking lot that can hold up to `N` cars at any given point in time. 
 
 ## Problem Description
 
@@ -23,19 +23,19 @@ Follow these steps -
 
 ## Description of commands in the Input file
 
-##### 1 `create_parking_lot` - Used for creating the parking lot system.
+##### 1 `create_parking_lot <N>` - To create parking lot with N parking slots .
 
-##### 2 `exit` - Used for closing the system.
+##### 2 `exit` - To exit the parking lot system.
 
-##### 3 `leave` - Used to empty a parking spot in the parking lot.
+##### 3 `leave <n>` - To empty a parking spot in the parking lot passed slot number.
 
-##### 4 `park` - Used to park a vehicle in the parking lot.
+##### 4 `park <Vehicle_Number> driver_age <Age>` - To park a vehicle in the parking lot with passed Vehicle Number and Driver's Age.
 
-##### 5 `slot_numbers_for_driver_of_age` - Gives the slot numbers with drivers of passed age.
+##### 5 `slot_numbers_for_driver_of_age` - Gives the slot numbers with drivers of passed age argument.
 
-##### 6 `slot_number_for_car_with_number` - Gives the slot number with vehicle with passed registration number.
+##### 6 `slot_number_for_car_with_number <Vehicle_Number>` - Gives the slot number with vehicle with passed registration number.
 
-##### 7 `vehicle_registration_number_for_driver_of_age` - Gives the vehicle registration numbers with the given driver's age
+##### 7 `vehicle_registration_number_for_driver_of_age <Age>` - Gives the vehicle registration numbers with the given driver's age
 
 
 ### Sample 1 Input 
